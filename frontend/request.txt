@@ -1,0 +1,83 @@
+17 entry without payment gateway
+18 applicable to users who are already customers, have credit and are invoiced manually after the completion of the service
+
+https://github.com/EXAAGROP/PRO-2022-01/blob/main/README.md
+
+This is a client who has worked with us on previous dates and has previously paid. For this reason, we think that if he is going to pay again and we will carry out the work without charging him before starting the work, so we accept his request, we carry out the analyzes , we do not charge you during the time that we carry out the analyzes and when the analyzes are finished and we deliver the results, if the client is satisfied, then we send the invoice and the client pays it.
+
+If he does not pay it, it is an economic risk that we run, but for our part we have trusted the client.
+
+In this case, the invoice is NOT issued when you request the analyses.
+
+For example, "Client A, requests analysis of some cheese samples, we received his request on May 1, we received the sample on May 4, the analyzes are completed on May 15, the results of the analyzes are delivered on May 16 and at the end of the month, the invoice is sent on May 30 and after 30 days, the invoice is charged on June 30. That is to say ( 1 ) Request ( 2 ) NO Invoice is made (3) Reception of samples (4) Performance of analyzes (5) Delivery of results reports (6) Issuance of the invoice (7) Collection.
+
+All this process has to be carried out digitally, in the future. current date the Project-2022-01 does not include the sections (4) Carrying out the analyzes (5) Delivery of results reports, as soon as possible we will automate it, but that will be in a project after Project-2022-01
+
+The answer is not finished, continue with the answer ···>
+For the above reasons, the program must give the user two options.
+
+Option 1
+
+Are you a user who has previously worked with us and has credit, with which you can send the samples and pay for them after receiving the analytical reports?
+
+Option 2
+
+Are you a user who has NOT worked with us before, so you do NOT have credit, so you must pay for the service in advance, before sending the samples?
+
+
+This is the answer to the first question.
+12:38 PM
+now i will answer your second question
+
+Regarding the second question
+
+And step 21-28 is already developed in external landing page or I have to develop them?
+
+These processes are included in the process map, and consequently are part of Project-2022-01,
+According to the agreement we made, the payment gateway is at Milestone 2.
+Now that you are performing Milestone 1, these processes cannot be included in Milestone 1.
+They have to wait for Milestone 2
+
+This is the answer to the second question.
+
+At this point we need your opinion and advise in your professional criteria.
+Our company has 3 types of possible clients, (3 cards / client objectives)
+
+( A ) Target / section
+section ( A ) performs services for agriculture / livestock / fishing
+
+( B ) Target / section
+section ( B ) performs services for processing and marketing activities of processed foods / factories / industrial kitchens / others
+
+( C ) Target / section
+section ( C ) performs services for final consumers
+
+The program that you are developing is structurally THE SAME (I don't shout, it is to highlight the concept) For the three cards ( A ), ( B ) and ( C ) we will have to use the same program In fact, there would have to be 3 programs, the same in every way, but with differences
+
+For example. For sector ( A )
+section ( A ) performs services for agriculture / livestock / fishing
+
+There should be a specific questionnaire for this activity, (example, dropdown (agriculture; place of farm, type of crop, extension of the farm..... and more) (in livestock; dropdown; place of farm livestock, type of livestock, number of livestock .... and more) (in fishing, drop-down; type of fishing, place of fishing, processing of fishing ... and more)
+
+For example. For sector ( B )
+There should be a specific questionnaire for this activity,
+
+( C ) Target / section
+section ( C ) performs services for final consumers
+
+
+what do you think is better?
+
+( OPTION ONE ) have three landing pages in three different directories and clone the program in all three directories ( the same program )
+
+landing page ( A ) directed to directory A
+landing page ( B ) directed to directory B
+landing page ( C ) directed to directory C
+
+
+( OPCION TWO) have three landing pages between three directories and redirect the user to a single directory where the program is and from a single directory, manage the clients of the three cards
+
+
+landing page ( A ) , landing page ( B ) , landing page ( C ) directed to directory D
+
+ I think I have to explain to you in as much detail as possible what the work of our company is, for two reasons, (1) because you need to have the knowledge to develop the project (2) because I personally I consider you integrated into the team, we do not know what Life will allow us tomorrow or in two months, but for my part, whatever happens in the future, for my part today I have confidence in you and you are in the team. If I have asked you to create the program with initiative, with creativity, with imagination, with art and with love, that in Life you always have to create with love with respect to what is created, well, just as I ask you the above, for the reasons of fairness, balance and justice I have to let you know what our business project is, so to answer your question, first I will explain why we have to create Project-2022-01 as the first phase, you have to know the reasons, the challenges we have, the difficulties, the limitations that this activity has and our objectives, so first I will explain this to you and then you will already have the knowledge to focus much better on the development of the project. Once you have this knowledge you will be able to create with more focus instruments. What happens is that today I am going to work at a heart-stopping pace, so I will explain this to you today if possible and when I have been able to transmit this knowledge to you, we will be able to focus more on the technical part. I write to you as soon as possible. Thank you. Javier
